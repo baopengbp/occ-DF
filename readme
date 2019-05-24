@@ -1,0 +1,5 @@
+occ Density Fitting
+and DF analytical nuclear gradients in  occ-DF/MPI/incore/df_grad.py
+Requirements: PySCF
+
+See the detailed introduction in every file
