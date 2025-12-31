@@ -1,3 +1,5 @@
+New version is in pyaies/occ-df
+
 occ Density Fitting
 and DF analytical nuclear gradients in  occ-DF/MPI/incore/df_grad.py
 Requirements: PySCF
